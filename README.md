@@ -7,7 +7,7 @@
 È quello di ridurre i tempi di connessione e fornisce molte altre piccole funzionalità come cancellare la cache, installare citizen modificati e visualizzare le informazioni dei server FiveM. Inoltre con un semplice tasto potrete connettervi direttamente al server sia di FiveM che di TeamSpeak anche se questi ultimi due non sono ancora stati avviati, compreso steam.
 
 ## Dove si può scaricare?
-Il software si può scaricare dall'[Inspector. Software Downloader](https://discord.gg/UxsZeYFz7q).
+Il software si può scaricare dall'[Inspector. Software Downloader](https://github.com/inspector-development/Inspector.-Software-Downloader).
 
 ## Hai altri dubbi?
 Contattaci aprendo un ticket su [discord](https://discord.gg/UxsZeYFz7q)
